@@ -80,18 +80,18 @@ Click settings > Users > Settings > and ensure that the box next to Require Regi
 </p>
 <br />
 
-<b> Item 5: Configure Agents (workers)</b>
+<b> Item 5: Configure Agents (workers) </b>
 <p>
 <img width="1171" alt="9" src="https://github.com/user-attachments/assets/97db964c-d02c-4e3a-b52a-ffdcdac05b84">
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1351" alt="10" src="https://github.com/user-attachments/assets/976ef460-e03f-4dd2-bd66-cba1f9e25297">
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1253" alt="11" src="https://github.com/user-attachments/assets/1ea0b46e-06a6-4ae3-87c7-fc56dbac5124">
 </p>
 <p>
-We are still in the Admin panel. From here Click Agents > Add New > Add the names of the individuals (ex: Jane Doe or John Doe) > Set username and password (Don't forget these credentials) > Uncheck the box next to Send the Agent a password reset email and uncheck the box next to Require a password change at the next login.
+We are still in the Admin panel. From here Click Agents > Add New > Add the names of the individuals (ex: Jane Doe or John Doe) > Set username and password (Don't forget these credentials) > Uncheck the box next to Send the Agent a password reset email and uncheck the box next to Require a password change at the next login > Click Set. Next go to Access > Set the Primary Department to System Administrators and Supreme Admin > Click Teams > Add Jane.doe to Level II Support > Create. You can repeat this process to create another user if needed. 
 </p>
 <br />
 
