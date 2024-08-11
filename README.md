@@ -25,10 +25,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 1: Configure Roles
 - Item 2: Configure Departments
 - Item 3: Configure Teams
-- Item 4: Configure Agents (workers)
-- Item 5: Configure Users (customers)
-- Item 6: Configure SLA
-- Item 7: Configure Help Topics
+- Item 4: Configure to Allow Anyone to Create Tickets
+- Item 5: Configure Agents (workers)
+- Item 6: Configure Users (customers)
+- Item 7: Configure SLA
+- Item 8: Configure Help Topics
   
 <h2>Configuration Steps</h2>
 <b> Item 1: Configure Roles</b>
@@ -70,14 +71,22 @@ Ensure you are on the Agents tab still. Click Teams > Add New Team > Name it > C
 </p>
 <br />
 
+<b> Item 4: Configure to Allow Anyone to Create Tickets </b>
+<p>
+  <img width="1340" alt="8" src="https://github.com/user-attachments/assets/670a19f0-4ac2-4838-8eaa-6c91fe44f2f9">
+</p>
+<p>
+Click settings > Users > Settings > and ensure that the box next to Require Registration and Login to Create Tickets is unchecked.
+</p>
+<br />
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
