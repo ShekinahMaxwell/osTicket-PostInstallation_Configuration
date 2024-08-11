@@ -127,7 +127,10 @@ Return to the admin panel > Click Manage > SLA > Click Add New SLA Plan > Name S
 <img width="1336" alt="17" src="https://github.com/user-attachments/assets/7a4aa2c4-6238-4c0a-bcc1-9daa646fd7f3">
 </p>
 <p>
-<img 
+<img width="1252" alt="18" src="https://github.com/user-attachments/assets/bae455d8-eca6-470a-8745-01b7c9803c71">
+</p>
+<p>
+<img width="1299" alt="19" src="https://github.com/user-attachments/assets/158cbd29-ed0e-4b0c-a118-52962dc192c2">
 </p>
 <p>
 Last, we will create Help Topics. Click Help Topics > Add New Help Topic > Name it Business Critical Outage > Add Topic > Repeat the process for topics Personal Computer Issues, Equipment Request and Password Reset.
