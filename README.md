@@ -80,9 +80,9 @@ Click settings > Users > Settings > and ensure that the box next to Require Regi
 </p>
 <br />
 
-
+<b> Item 5: Configure Agents (workers)</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1171" alt="9" src="https://github.com/user-attachments/assets/97db964c-d02c-4e3a-b52a-ffdcdac05b84">
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -91,7 +91,7 @@ Click settings > Users > Settings > and ensure that the box next to Require Regi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We are still in the Admin panel. From here Click Agents > Add New > Add the names of the individuals (ex: Jane Doe or John Doe) > Set username and password (Don't forget these credentials) > Uncheck the box next to Send the Agent a password reset email and uncheck the box next to Require a password change at the next login.
 </p>
 <br />
 
