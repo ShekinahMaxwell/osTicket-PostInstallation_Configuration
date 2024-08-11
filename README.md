@@ -103,21 +103,27 @@ We are still in the Admin panel. From here Click Agents > Add New > Add the name
 <img width="1186" alt="13" src="https://github.com/user-attachments/assets/2f445caf-5f58-45ed-beaa-2c0785dd6cb2">
 </p>
 <p>
+<img width="1240" alt="14" src="https://github.com/user-attachments/assets/5f1cc7f9-dcc0-4db5-8f6b-a805b8f69526">
+</p>
+<p>
 Click the Agent Panel > Users > Add New User > Type in the customer Name and Email > Add User. Repeat this process to add more users if needed. 
 </p>
 <br />
 
 <b> Item 7: Configure SLA </b> 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1345" alt="15" src="https://github.com/user-attachments/assets/8de442e4-1ad7-4a3f-a5c7-90bcdc28296f">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1268" alt="16" src="https://github.com/user-attachments/assets/c638b376-dd5a-4139-af87-79e94143c32c">
+</p>
+<p>
+Return to the admin panel > Click Manage > SLA > Click Add New SLA Plan > Name SEV-A > Grace Period of 1 > Schedule 24/7 > Add Plan > Add New SLA Plan > Name SEV-B > Grace Period 4 > Schedule 24/7 > Add Plan > Add New SLA Plan > Name SEV-C > Grace Period 8 > Schedule Mon-Friday (Business Hours).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
