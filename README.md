@@ -60,10 +60,13 @@ Ensure you are on the Agents tab still. Click Departments > Add New Department >
 
 <b> Item 3: Configure Teams</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1369" alt="6" src="https://github.com/user-attachments/assets/876fc060-bb4a-495a-935d-e2e3db37fe7b">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1270" alt="7" src="https://github.com/user-attachments/assets/7600eee0-c1af-4b65-b611-5b0ed29b3d93">
+</p>
+<p>
+Ensure you are on the Agents tab still. Click Teams > Add New Team > Name it > Click Members and add yourself to the team > Click Create Team.
 </p>
 <br />
 
