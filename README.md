@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 7: Configure Help Topics
   
 <h2>Configuration Steps</h2>
-
+<b> Item 1: Configure Roles</b>
 <p>
   <img width="1440" alt="01" src="https://github.com/user-attachments/assets/62fb5c0a-4aef-4e57-a2af-67b3fe923cf1">
 </p>
@@ -46,14 +46,19 @@ Click Agent > Roles > Add New Role > Name your Role > Click Permissions > Under 
 </p>
 <br />
 
+<b> Item 2: Configure Departments</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1388" alt="4" src="https://github.com/user-attachments/assets/07a86377-9772-484a-9159-e5b559a50c92">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1356" alt="5" src="https://github.com/user-attachments/assets/bebe41eb-324d-438d-b88a-0ca98547c3d5">
+</p>
+<p>
+Ensure you are on the Agents tab still. Click Departments > Add New Department > Give it a name > Click Add Dept.
 </p>
 <br />
 
+<b> Item 3: Configure Teams</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
