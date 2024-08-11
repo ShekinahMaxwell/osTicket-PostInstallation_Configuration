@@ -33,10 +33,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img width="1440" alt="01" src="https://github.com/user-attachments/assets/62fb5c0a-4aef-4e57-a2af-67b3fe923cf1">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <img width="1440" alt="02" src="https://github.com/user-attachments/assets/1872cdaf-04c3-45af-b5db-0e3110d71e7c">
+</p>
+<p>
+  <img width="1440" alt="03" src="https://github.com/user-attachments/assets/876821f9-db01-4ce3-9464-f570beb83066">
+</p>
+<p>
+Click Agent > Roles > Add New Role > Name your Role > Click Permissions > Under all categories (Tickets, Tasks, and Knowledgebase) check the boxes for all permissions > Click Add Role.
 </p>
 <br />
 
