@@ -95,14 +95,19 @@ We are still in the Admin panel. From here Click Agents > Add New > Add the name
 </p>
 <br />
 
+<b> Item 6: Configure Users (customers)</b>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1364" alt="12" src="https://github.com/user-attachments/assets/74592881-b47a-47f8-9216-69493ce3b138">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img width="1186" alt="13" src="https://github.com/user-attachments/assets/2f445caf-5f58-45ed-beaa-2c0785dd6cb2">
+</p>
+<p>
+Click the Agent Panel > Users > Add New User > Type in the customer Name and Email > Add User. Repeat this process to add more users if needed. 
 </p>
 <br />
 
+<b> Item 7: Configure SLA </b> 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
